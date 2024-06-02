@@ -26,4 +26,4 @@ This project is a responsive web page developed as an internship assignment for 
 
 ## 🎥 Demo
 
-[Live Demo](https:/)
+[Live Demo](https://soustab10.github.io/frontend-task/)
