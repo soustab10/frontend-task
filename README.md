@@ -2,7 +2,7 @@
 
 ## 🚀 Description
 
-This project is a responsive web page developed as an internship assignment for Fyle. It demonstrates proficiency in HTML, CSS, and JavaScript. The page incorporates smooth scrolling using Locomotive JS and features engaging animations using vanilla CSS. The contact form is seamlessly integrated with getform.io for effortless form submissions and data storage.
+This project is a responsive web page developed as an internship assignment for Fyle. It demonstrates proficiency in HTML, CSS, and JavaScript. The page incorporates smooth scrolling using Locomotive JS and features engaging animations using CSS. The contact form is seamlessly integrated with getform.io for effortless form submissions and data storage.
 
 ## ✨ Features
 
@@ -15,12 +15,11 @@ This project is a responsive web page developed as an internship assignment for 
 - HTML
 - CSS
 - JavaScript
-- Locomotive JS
 - getform.io
 
 ## 📝 Usage
 
-1. Clone the repository: `git clone `
+1. Fork and Clone the repository.
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the website and interact with its features.
 
